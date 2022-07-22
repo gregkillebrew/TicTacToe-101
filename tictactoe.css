@@ -14,3 +14,7 @@ td {
 table {
   margin: auto auto;
 }
+
+h1, h2, p{
+  text-align: center;
+}
